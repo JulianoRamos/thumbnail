@@ -7,6 +7,8 @@ const Canal: React.FC = () => {
       <h1>Canal</h1>
       <Helmet>
         <title>Canal</title>
+        <meta name="description" content="Description do canal que vai longeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee ..."/>    
+
         <meta property="og:site_name" content="Canal" />
         <meta property="og:url" content="https://www.youtube.com/watch?v=VUwU9wt2s7w" />
         <meta property="og:title" content="TITULO NOVO PARA EXEMPLO" />
