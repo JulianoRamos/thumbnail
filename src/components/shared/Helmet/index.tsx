@@ -23,7 +23,7 @@ const Helmet: React.FC<HelmetProps> = ({ title }) => {
 
       <link rel="image_src" href="https://i.ytimg.com/vi/VUwU9wt2s7w/maxresdefault.jpg"/>
 
-      {/* <meta property="og:type" content="video.other"/> */}
+      <meta property="og:type" content="video.other"/>
       <meta property="og:site_name" content="Canal"/>
       <meta property="og:url" content="https://www.youtube.com/watch?v=VUwU9wt2s7w"/>
       <meta property="og:title" content="TITULO NOVO PARA EXEMPLO"/>
@@ -31,12 +31,12 @@ const Helmet: React.FC<HelmetProps> = ({ title }) => {
       <meta property="og:image:width" content="1280"/>
       <meta property="og:image:height" content="720"/>
       <meta property="og:description" content="Description do canal que vai longeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee ..."/>
-      {/* <meta property="og:video:url" content="https://www.youtube.com/embed/VUwU9wt2s7w"/>
+      <meta property="og:video:url" content="https://www.youtube.com/embed/VUwU9wt2s7w"/>
       <meta property="og:video:secure_url" content="https://www.youtube.com/embed/VUwU9wt2s7w"/>
       <meta property="og:video:type" content="text/html"/>
       <meta property="og:video:width" content="1280"/>
       <meta property="og:video:height" content="720"/>
-      <meta property="og:video:tag" content="como escolher um fundo imobiliário"/>       */}
+      <meta property="og:video:tag" content="como escolher um fundo imobiliário"/>      
       {/* <meta property="fb:app_id" content="87741124305"/> */}
 
       <meta name="twitter:card" content="player"/>

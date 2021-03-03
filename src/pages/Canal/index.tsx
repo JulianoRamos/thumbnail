@@ -4,7 +4,7 @@ import Helmet from '../../components/shared/Helmet';
 const Canal: React.FC = () => {
   return (
     <>
-      <Helmet title="Canal"/>
+      {/* <Helmet title="Canal"/> */}
       <h1>Canal</h1>      
     </>
   );
